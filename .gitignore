@@ -1,0 +1,8 @@
+*.py[cod]
+__pycache__
+.mypy_cache
+.venv
+Pipfile.lock
+
+settings.py
+cryptotrader.db
